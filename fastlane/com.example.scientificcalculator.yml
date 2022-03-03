@@ -6,7 +6,7 @@ Categories:
 
 AuthorName: harvey186
 AuthorWebSite: http://leos-gsi.de
-License:
+License: GPL-3.0-or-later
 SourceCode: https://github.com/LeOS-GSI/LeOS-Calculator
 IssueTracker: https://github.com/LeOS-GSI/LeOS-Calculator/issues
 RepoType: git

@@ -1,1 +1,0 @@
-<pre><p><strong>categories used in the repository</strong></p><hr/><ul><li><strong>f-droid</strong><ul><li>System</li><li>Theming</li></ul></li></ul><hr/><ul><li><strong>custom</strong><ul><li>Calculator</li><li>Launcher</li><li>Omega Launcher and Friends</li><li>LeOS GSI</li></ul></li></ul></pre>
