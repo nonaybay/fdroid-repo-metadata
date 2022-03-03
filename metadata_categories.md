@@ -1,0 +1,1 @@
+<h1>Categories</h1><h4>Categories used in the repository:</h4><h4><code><strong>F-Droid:</strong> Theming</code>.</h4><h4><code><strong>Custom:</strong> Launcher, Omega Launcher and Friends</code>.</h4>
